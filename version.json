@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "05.2.0",
   "url": "https://text.rime.ccwu.cc/sub/ver/firmware/firmware.bin",
   "note": "诊断/RSSI曲线/OTA/日志/堆内存监控 + 可配置日志容量 + BootLog + 全模块 DEBUG + 上传/自检回滚"
 }
